@@ -17,14 +17,15 @@ Features:
 - Initial commit generation
 - Project validation and safety checks
 
+## Currently Building
+
 ### Personal Dashboard
 A Python productivity dashboard built with modular widgets and JSON-based data storage.
 
 Currently implementing:
 - Task management
-- Custom dashboard formatting
-- Persistent data storage
-- Modular application structure
+- Persistent JSON storage
+- Modular dashboard components
 
 ## Technologies
 
